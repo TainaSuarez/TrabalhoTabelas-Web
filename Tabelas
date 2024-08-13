@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=
+    
+    , initial-scale=1.0">
+    <title>Mi sitio</title>
+</head>
+<body>
+    <table border>
+        <thead>
+
+        <tr>
+            <th>Nome</th>
+            <th>Idade</th>
+            <th>Pais</th>
+
+        </tr>
+    </thead>
+<tbody>
+<tr>
+    <td>Paula Suarez</td>
+    <td>19 </td>
+    <td>Uruguay</td>
+
+</tr>
+<tr>
+    <td>Jefferson Silva </td>
+    <td>24</td>
+    <td>USA</td>
+
+</tr>
+<tr>
+    <td>Miguel Suarez</td>
+    <td>55</td>
+    <td>Nepal</td>
+
+    </tr>
+
+    
+
+</tbody>
+</table>
+
+<br>
+
+
+<table border>
+    <thead>
+
+    <tr>
+        <th>Tabela</th>
+        <th>Hora de saida</th>
+        <th>Hora de chegada</th>
+        <th>Classe do onibus</th>
+        <th>Tarifa normal</th>
+        <th>Frequencia</th>
+
+    </tr>
+</thead>
+<tbody>
+<tr>
+<th>Cidade A</th>
+<td>06:00 </td>
+<td>14:00</td>
+<td>Convencional</td>
+<td>20,00</td>
+<td>Diaria</td>
+
+</tr>
+<tr>
+<th>Cidade B</th>
+<td>12:00</td>
+<td>15:00</td>
+<td>Convencional</td>
+<td>10,00</td>
+<td>Domingos</td>
+
+
+</tr>
+<tr>
+<th> Cidade C </th>
+<td>14:00</td>
+<td>17:00</td>
+<td>Leito</td>
+<td>15,00</td>
+<td>Diaria</td>
+
+</tr>
+<tr>
+    <th>Cidade D</th>
+    <td>16:00</td>
+    <td>17:00</td>
+    <td>Convencional</td>
+    <td>10,00</td>
+    <td>Diaria</td>
+</tr>
+<tr>
+    <th>Cidade E</th>
+    <td>18:30</td>
+    <td>20:00</td>
+    <td>Executivo</td>
+    <td>30,00</td>
+    <td>Domingos</td>
+</tr>
+<tr>
+    <th>cidade F</th>
+    <td>20:00</td>
+    <td>23:00</td>
+    <td>Convencional</td>
+    <td>80,00</td>
+    <td>Sabados</td>
+</tr>
+<tr>
+    <th>Cidade G</th>
+    <td>21:00</td>
+    <td>23:30</td>
+    <td>Convencional</td>
+    <td>26,00</td>
+    <td>Diaria</td>
+</tr>
+<tr>
+    <th>Cidade H</th>
+    <td>22:00</td>
+    <td>23:00</td>
+    <td>Executivo</td>
+    <td>16,00</td>
+    <td>Diaria</td>
+</tr>
+<tr>
+    <td colspan="6"> Horario de onibus </td>
+</tr>
+
+
+
+
+</br>
+</tbody>
+</table>
+
+<br>
+
+<table border="1">
+    
+    <thead>
+        <tr>
+            <th rowspan="4" colspan="2"></th>
+            
+            <th colspan="5">Demografia </th>
+            
+            
+        </tr>
+        <tr>
+        
+              
+            <th> Meninos </th>
+            <th> Meninas </th>
+            <th>Profesor</th>
+         
+        </tr>
+        <thead>
+            <tbody>
+                <tr>
+                    <th rowspan="4">Turmas </th>
+                    <td>A</td>
+                    <td>20</td>
+                    <td>5</td>
+                    <td rowspan="2"> Joao Pedro</td>
+                </tr>
+                <tr>
+                    
+                    <td>B</td>
+                    <td>21</td>
+                    <td>3</td>
+                    
+               
+                </tr>
+                <tr>
+                    
+                    <td>C</td>
+                    <td>25</td>
+                    <td>2</td>
+                    <td rowspan="2">Maria Joao</td>
+                </tr>
+                <tr>
+                    <td>D</td>
+                    <td>20</td>
+                    <td>0</td>
+                    
+                </tr>
+                <tr>
+                    <th colspan="2">Total</th>
+                    <th>86</th>
+                    <th>10</th>
+                    <th>2</th>
+                </tr>
+                </table>
+            </tbody>
+        </thead>
+    </thead>
+</table>
+
+
+
+
+
+</body>
+</html>
